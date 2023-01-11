@@ -1,6 +1,6 @@
 # Hi!
 I'm Martin, a junior developper in part time formation and part time entreprise!  
-I'm currently working for Sinay 🐬, and i study at CESI 🔭.  
+I'm currently working for Sinay 🐬, and I study at CESI 🔭.  
 I'm practicing : 🌱
 - Java with Spring Boot
 - JavaScript with Vue.js
