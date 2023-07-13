@@ -1,12 +1,10 @@
 # Hi!
 I'm Martin, a junior developper in part time formation and part time entreprise!  
-I'm currently working for Sinay 🐬, and I study at CESI 🔭.  
-I'm practicing : 🌱
+I'm currently working for Sinay 🐬 and I study at CESI 🔭.  
+I'm currently practicing: 🌱
 - Java with Spring Boot
-- JavaScript with Vue.js
-- Docker
-
-(I also love hardware and graphism)  
+- JavaScript with React.js
+- German (it's a language after all) 
 
 ## Some info
 📕 [My portfolio](https://martinjeanne.github.io/)  
