@@ -1,5 +1,5 @@
 # Hi!
-I'm Martin, a junior developper in apprenticeship!  
+I'm Martin, a junior developer in apprenticeship!  
 I'm working for Sinay 🐬 and I study at CESI 🔭  
 I'm currently practicing: 🌱
 - Java with Spring Boot
