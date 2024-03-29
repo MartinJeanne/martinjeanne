@@ -6,8 +6,6 @@ I'm currently practicing: 🌱
 - JavaScript with React.js
 - German (it's a language after all) 
 
-## Some info
-📕 [My portfolio](https://martinjeanne.github.io/)  
 💬 martinjeanne.dev@gmail.com
 
 <!--
