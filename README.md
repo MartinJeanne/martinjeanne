@@ -2,8 +2,8 @@
 I'm Martin, a junior developer in apprenticeship!  
 I'm working for Sinay 🐬 and I study at CESI 🔭  
 I'm currently practicing: 🌱
+- TypeScript
 - Java with Spring Boot
-- JavaScript with React.js
 - German (it's a language after all) 
 
 💬 martinjeanne.dev@gmail.com
