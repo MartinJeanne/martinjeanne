@@ -1,6 +1,5 @@
 # Hi!
-I'm Martin, a junior developer in apprenticeship!  
-I'm working for Sinay 🐬 and I study at CESI 🔭  
+I'm Martin, a junior developer, who just graduated with a master's degree!
 I'm currently practicing: 🌱
 - TypeScript
 - Java with Spring Boot
