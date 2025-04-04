@@ -1,13 +1,16 @@
-# Hi!
-I'm Martin, a junior developer, who just graduated with a master's degree!\
-- 🔭 [Check my portfolio!(https://martinjeanne.com/)  
-- 💬 martinjeanne.dev@gmail.com
+# Hi there!
 
-Main skills: 🌱
-- Language: TypeScript, Java
-- Framework: Spring, React
-- DevOps: Docker, CI/CD
-- Project management: Agile Scrum
+I'm **Martin**, a **junior developer** with a master's degree in computer science. Passionate about **software development** and **DevOps**. I enjoy building things!
+
+🚀 **Check out my portfolio:** [martinjeanne.com](https://martinjeanne.com/)  
+📧 **Contact me:** martinjeanne.dev@gmail.com  
+
+## 🔧 Main skills
+
+- **Languages:** TypeScript, Java  
+- **Frameworks:** Spring Boot, React  
+- **DevOps:** Docker, CI/CD  
+- **Project Management:** Agile, Scrum  
 
 
 
