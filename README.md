@@ -1,11 +1,15 @@
 # Hi!
-I'm Martin, a junior developer, who just graduated with a master's degree!  
-I'm currently practicing: 🌱
-- TypeScript
-- Java with Spring Boot
-- German (it's a language after all) 
+I'm Martin, a junior developer, who just graduated with a master's degree!\
+- 🔭 [Check my portfolio!(https://martinjeanne.com/)  
+- 💬 martinjeanne.dev@gmail.com
 
-💬 martinjeanne.dev@gmail.com
+Main skills: 🌱
+- Language: TypeScript, Java
+- Framework: Spring, React
+- DevOps: Docker, CI/CD
+- Project management: Agile Scrum
+
+
 
 <!--
 **MartinJeanne/martinjeanne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
