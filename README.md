@@ -10,7 +10,7 @@ I'm **Martin**, a **junior developer** with a master's degree in computer scienc
 - **Languages:** TypeScript, Java  
 - **Frameworks:** Spring Boot, React  
 - **DevOps:** Docker, CI/CD  
-- **Project Management:** Agile, Scrum  
+- **Project Management:** Agile Scrum  
 
 
 
