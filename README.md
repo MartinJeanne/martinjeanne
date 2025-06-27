@@ -7,7 +7,7 @@ I'm **Martin**, a **junior developer** with a master's degree in computer scienc
 
 ## 🔧 Main skills
 
-- **Languages:** TypeScript, Java  
+- **Languages:** Java, TypeScript  
 - **Frameworks:** Spring Boot, React  
 - **DevOps:** Docker, CI/CD  
 - **Project Management:** Agile Scrum  
