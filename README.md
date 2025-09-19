@@ -1,6 +1,6 @@
 # Hi there!
 
-I'm **Martin**, a **junior developer** with a master's degree in computer science. Passionate about **software development** and **DevOps**. I enjoy building things!
+I'm **Martin**, a **junior back-end developer** with a master's degree in computer science. Currently working for Badakan!
 
 🚀 **Check out my portfolio:** [martinjeanne.com](https://martinjeanne.com/)  
 📧 **Contact me:** martinjeanne.dev@gmail.com  
