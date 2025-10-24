@@ -1,14 +1,12 @@
-# Hi there!
+# Hello there!
 
 I'm **Martin**, a **junior back-end developer** with a master's degree in computer science. Currently working for Badakan!
-
-🚀 **Check out my portfolio:** [martinjeanne.com](https://martinjeanne.com/)  
 📧 **Contact me:** martinjeanne.dev@gmail.com  
 
 ## 🔧 Main skills
 
 - **Languages:** Java, TypeScript  
-- **Frameworks:** Spring Boot, React  
+- **Frameworks:** Spring Boot  
 - **DevOps:** Docker, CI/CD  
 - **Project Management:** Agile Scrum  
 
