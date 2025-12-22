@@ -1,6 +1,6 @@
 # Hello there!
 
-I'm **Martin**, a **junior back-end developer** with a master's degree in computer science. Currently working for Badakan!  
+I'm **Martin**, a **back-end developer** with a master's degree in computer science. Currently working for Badakan!  
 📧 **Contact me:** martinjeanne.dev@gmail.com  
 
 ## 🔧 Main skills
