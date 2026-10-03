@@ -8,7 +8,7 @@ I'm **Martin**, a **back-end developer** with a master's degree in computer scie
 - **Languages:** Java, TypeScript  
 - **Frameworks:** Spring Boot  
 - **DevOps:** Docker, CI/CD  
-- **Project Management:** Agile Scrum  
+- **Project Management:** Agile Scrum & Kanban  
 
 
 
