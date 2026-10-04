@@ -1,6 +1,6 @@
 # Martin Jeanne
 
-Back-end developer, writing Java at [Badakan](https://badakan.com).
+Back-end developer, writing Java at [Badakan](https://badakan.com).  
 Lately exploring how AI agents can speed up how I ship features.
 
 - **Stack:** Java, Spring Boot, TypeScript, Docker
